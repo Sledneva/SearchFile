@@ -1,0 +1,9 @@
+X:\Server\SearchFile\SearchFile\bin\Debug\SearchFile.exe.config
+X:\Server\SearchFile\SearchFile\obj\Debug\SearchFile.csprojResolveAssemblyReference.cache
+X:\Server\SearchFile\SearchFile\obj\Debug\SearchFile.Form1.resources
+X:\Server\SearchFile\SearchFile\obj\Debug\SearchFile.Properties.Resources.resources
+X:\Server\SearchFile\SearchFile\obj\Debug\SearchFile.csproj.GenerateResource.Cache
+X:\Server\SearchFile\SearchFile\bin\Debug\SearchFile.exe
+X:\Server\SearchFile\SearchFile\bin\Debug\SearchFile.pdb
+X:\Server\SearchFile\SearchFile\obj\Debug\SearchFile.exe
+X:\Server\SearchFile\SearchFile\obj\Debug\SearchFile.pdb
